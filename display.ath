@@ -1,0 +1,11 @@
+#Assign a value
+ASSIGN $a = 3
+
+#Increment "a" value
+INC $a
+
+#Increment "a" value of 2
+INC (2) $a
+
+#Display "a" value
+DISPLAY $a
